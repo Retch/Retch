@@ -2,7 +2,7 @@
 
 
 
-[![Retchs's github stats](https://github-readme-stats.vercel.app/api?username=Retch&count_private=true&include_all_commits=true&theme=Gradient)]
+![Retchs's github stats](https://github-readme-stats.vercel.app/api?username=Retch&count_private=true&include_all_commits=true&theme=Gradient)
 </br>
 
 
