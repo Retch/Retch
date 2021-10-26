@@ -8,7 +8,7 @@
 
 
 - 📫 I'm also on [GitLab](https://gitlab.com/Retch)
-- 🌱 I’m currently learning React, Spring and Python
+- 🌱 I’m currently learning Python and Kotlin
 
 <!--
 **Retch/Retch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
